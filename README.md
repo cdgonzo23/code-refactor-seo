@@ -3,7 +3,7 @@
 
 ## Description
 
-The Horisepnn SEO webpage is an overview of search engine optimization, online reputation management, and social media marketing.
+The Horiseon SEO webpage is an overview of search engine optimization, online reputation management, and social media marketing.
 
 The goal of this project was to refactor a pre-built HTML page with CSS. I made the code to be more accessibility friendly and to have better search engine optimization by replacing the div tags to be more semantic tags such as main, section, and aside. I  also consolidated the repetitive CSS selectors into specific class selectors and added alt image tags to be more accesible to those using screen readers. Finally, I fixed the dead link and I changed the title to be more specific.
 
